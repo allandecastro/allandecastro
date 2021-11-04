@@ -1,13 +1,14 @@
 # Allan De Castro
 
 ### Hi there 👋, my name is Allan 
-#### I am a Power Platform Technical Consultant @Avanade
+#### I am a Microsoft Business Application MVP & Power Platform Technical Consultant @Avanade
 
 - 🔭 I’m currently working on Power Platform. 
 - 🌱 I’m currently learning Azure Development. 
 - 👯 I’m looking to collaborate on Community Tools. 
 - 💬 Ask me about any Power Platform technologies. 
 - 📫 How to reach me: contact@allandecastro.com 
+- ▶  My Blog: blog.allandecastro.com
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/decastroallan?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=decastroallan)
 
